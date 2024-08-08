@@ -1,0 +1,79 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.cabeçalho
+{
+   background-image: url(agrinho.jpg);
+   color: #efeff0;
+   padding: 150px;
+}
+
+.titulo
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+    font-size: 64px;
+    letter-spacing: 6px;
+}
+
+.body
+{
+    background-image: linear-gradient(#d4b4a3,#bdb06f);
+    color: rgb(57, 52, 52);
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+    margin: 100;
+    padding: 100;
+}
+
+.texto1
+{ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 50;
+}
+
+    .texto2
+    {display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 50px 0;}
+        
+        .texto3
+{display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0;}
+
+    .texto4
+{display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0;}
+
+    .texto5
+{display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0;}
+
+    .drone
+    {width: 10%;}
+
+    .sprinklers
+    {width: 10%;}
+    
+    .sensores
+    {width: 10%;}
+
+    .placas
+    {width: 10%;}
+
+    .trator
+    {width: 10%;}
